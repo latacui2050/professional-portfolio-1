@@ -1,4 +1,4 @@
-/* imports font-family and style to be applied to 'Madison' graphic */
+
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
 
 /* sets the height and background color of the header in the body */
@@ -64,8 +64,7 @@ nav a:hover {
 	font-family: "Poppins", sans-serif;
 }
 
-/* sets 'Madison' graphic to the center of the screen and down the page for aesthetic,
-and adds color gradient leading into main portion of html */
+
 header section {
     display: flex;
     min-height: 100vh;
@@ -96,7 +95,7 @@ header section {
     animation: animate 4s ease-in-out infinite;
 }
 
-/* animates the wave in the 'Madison' graphic*/
+
 @keyframes animate {
     0%,
 	100% {

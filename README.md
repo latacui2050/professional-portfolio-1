@@ -1,4 +1,4 @@
-# professional portfolio
+# Professional Portfolio
 
 
 
@@ -13,11 +13,6 @@
 - [Contact Me](#Contact-Me)
 
 ## Usage
-
-
-
-
-## Credits
 
 
 
