@@ -47,7 +47,7 @@ nav a {
 /* sets the size and border for my avatar */
 nav img {
     background-color: purple;
-    border-radius: 100%;
+    border-radius: 10%;
     max-width: 150px;
     max-height: 150px;
 }
@@ -182,7 +182,7 @@ and sets display to flex so section is responsive and the images can be spaced e
 
 /* sets the image size, border, and margin to 'Manny's Diving Adventures' */
 .moviemix {
-    border-radius: 100%;
+    border-radius: 10%;
     max-height: 400px;
     max-width: 400px;
     margin-top: 30px;
@@ -190,7 +190,7 @@ and sets display to flex so section is responsive and the images can be spaced e
 
 /* sets the image size, border, and margin to 'Volcanoes National Park' */
 .volcano {
-    border-radius: 100%;
+    border-radius: 10%;
     max-height: 300px;
     max-width: 300px;
     margin-top: 30px;
@@ -198,7 +198,7 @@ and sets display to flex so section is responsive and the images can be spaced e
 
 /* sets the image size, border, and margin to 'Mount Kaala' */
 .kaala {
-    border-radius: 100%;
+    border-radius: 10%;
     max-height: 300px;
     max-width: 300px;
     margin-top: 30px;
@@ -243,7 +243,7 @@ h4 {
 main section img {
     max-width: 125px;
     max-height: 125px;
-    border-radius: 50%;
+    border-radius: 10%;
     margin-bottom: 20px;
 }
 
